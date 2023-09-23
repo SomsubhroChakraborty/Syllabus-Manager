@@ -1,0 +1,46 @@
+.folder-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.folder-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.input_section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+button {
+  margin: 5px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: #0056b3;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 30px;
+}
+button:hover {
+  background-color: green;
+}
+.input_section ::placeholder {
+  padding: 50px;
+  /* font-size:  */
+  border-radius: 0px;
+}
+
+/* Add hover effect */
+.folder-button:hover {
+  background-color: #0056b3;
+}
