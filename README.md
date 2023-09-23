@@ -1,3 +1,3 @@
-# stackblitz-starters-eez5j2
+# Syllabus Manager
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-eez5j2)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/SyllabusManager)
